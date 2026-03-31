@@ -1,0 +1,8 @@
+opencv-python
+numpy
+torch
+transformers
+langchain
+pinecone-client
+sentence-transformers
+python-dotenv
